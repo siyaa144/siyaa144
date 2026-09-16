@@ -1,6 +1,6 @@
 # Hi, I'm Siya 👋
 
-I'm a Software Development diploma student at NAIT (Alberta, Canada), building full-stack projects and looking for entry-level software developer opportunities. I started out in Computer Science at the University of Alberta, then moved to NAIT for a more hands-on, project-driven path into the field.
+I'm a Software Development diploma at NAIT (Alberta, Canada), building full-stack projects and looking for entry-level software developer opportunities. I started out in Computer Science at the University of Alberta, then moved to NAIT for a more hands-on, project-driven path into the field.
 
 ## 🧰 What I work with
 
@@ -16,7 +16,7 @@ I'm a Software Development diploma student at NAIT (Alberta, Canada), building f
 
 ## 🎯 Currently
 
-- Finishing my SDEV diploma at NAIT
+- Finishing my SDEV  at NAIT
 - Building out a portfolio of full-stack projects
 - Open to entry-level developer roles in Alberta
 
