@@ -13,7 +13,7 @@ I'm a Software Development diploma at NAIT (Alberta, Canada), building full-stac
 ## 🚀 Featured project
 
 **[myblogwebsite-portfolio](https://github.com/siyaa144/myblogwebsite-portfolio)** — a full-stack blog with a Django REST API backend and a React (Vite) frontend, built on top of coursework to practice shipping a complete app end to end.
-**[Turns raw meeting notes into structured minutes, action items, and SOPs — written live to Google Docs & Sheets]
+**[Foundry] https://github.com/siyaa144/foundry [Turns raw meeting notes into structured minutes, action items, and SOPs — written live to Google Docs & Sheets]
 
 ## 🎯 Currently
 
